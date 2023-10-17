@@ -1,7 +1,9 @@
 ### Hi Folks :wave:, It's Array-dev
 
-<h2>We are a team of passionate Full Stack Developers</h2>.
-
+<h2>We are a team of passionate Full Stack Developers</h2>
+<p>Our dedicated team of skilled professionals is well-versed in an array of technology stacks, including MERN, MEAN, LAMP, Python, and more, which allow us to build robust and scalable web applications, ensuring they meet the unique requirements of our clients.
+We are dedicated to helping you achieve your digital objectives, ensuring your digital presence remains at the forefront of excellence.
+Your vision, our expertise – a partnership built for success.</p>
 
 <h3 align="left">Let's connect :nerd_face:</h3>
 <p align="left">
