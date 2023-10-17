@@ -19,6 +19,6 @@ We are dedicated to helping you achieve your digital objectives, ensuring your d
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=array&show_icons=true&locale=en&layout=compact" alt="array" height="150px" /></p>
 
-<p style="margin-top:5px"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=array&show_icons=true&locale=en" alt="array" /></p>
+<p><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=array&show_icons=true&locale=en" alt="array" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=array&" alt="array" /></p>
